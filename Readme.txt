@@ -1,2 +1,1 @@
-testing new branch
-Before rebase
+Repo for learning SQL and PostGreSQL
